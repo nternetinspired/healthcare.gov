@@ -2,13 +2,13 @@
 
 HealthCare.gov Open Source Release
 
-What this is
+## What this is
 This project includes the source code for the website www.healthcare.gov (exclusive of code under the path www.healthcare.gov/marketplace). We have released this project as open source so that other web projects (government and commercial) can reuse and enhance the project artifacts. This project will be refreshed periodically with snapshots of the latest releases but it is not updated in real-time and should not be taken to represent the current codebase or content of www.healthcare.gov.
 
-What this is not
+## What this is not
 This project does not include any source code for the Federal Health Insurance Marketplace (the online systems located under www.healthcare.gov/marketplace.
 
-How to use this project and source code
+## How to use this project and source code
 Do not submit support requests for www.healthcare.gov or the Federal Health Insurance Marketplace via github.com. This is not a support channel and they will not be addressed.
 Do not submit technical issues related to the systems located at www.healthcare.gov/marketplace. This channel is not related to the Federal Health Insurance Marketplace systems and issues opened that are related to www.healthcare.gov/marketplace will be closed.
 
